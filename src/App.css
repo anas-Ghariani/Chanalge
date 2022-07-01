@@ -1,0 +1,15 @@
+.cardform{
+  display: flex;
+  justify-content: space-around;
+
+  align-items: center;
+  padding: 3%;
+  text-align: center;
+  /* width: 800px; */
+  
+}
+  .span{
+    display: flex;
+justify-content: center; 
+margin: 8%;   
+  }
